@@ -1,0 +1,29 @@
+﻿@page
+@using Lab1GuessingGame
+@namespace Lab1GuessingGame.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model GuessingGameModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Guessing Game</title>
+</head>
+<body>
+
+    <h1 align="center">Guessing Game</h1>
+    <form method="post" align="center">
+        <p>
+            <label for="text1" align="center">Pick a number between 1 and 100:</label>
+            <input type="text" name="Guess" />
+        </p>
+        <input type="hidden" name="number" value="@Model.Number" />
+        <p><input type="submit" value="Submit Guess" /></p>
+    </form>
+    <p align="center">@Model.Result</p>
+    <p align="center"><a href="Index">Home</a></p>
+
+</body>
+</html>
+

@@ -1,0 +1,11 @@
+c:\users\user\source\repos\Lab2GuessingGame\Lab2GuessingGame\bin\Debug\netcoreapp2.0\Lab2GuessingGame.deps.json
+c:\users\user\source\repos\Lab2GuessingGame\Lab2GuessingGame\bin\Debug\netcoreapp2.0\Lab2GuessingGame.runtimeconfig.json
+c:\users\user\source\repos\Lab2GuessingGame\Lab2GuessingGame\bin\Debug\netcoreapp2.0\Lab2GuessingGame.runtimeconfig.dev.json
+c:\users\user\source\repos\Lab2GuessingGame\Lab2GuessingGame\bin\Debug\netcoreapp2.0\Lab2GuessingGame.dll
+c:\users\user\source\repos\Lab2GuessingGame\Lab2GuessingGame\bin\Debug\netcoreapp2.0\Lab2GuessingGame.pdb
+c:\users\user\source\repos\Lab2GuessingGame\Lab2GuessingGame\obj\Debug\netcoreapp2.0\Lab2GuessingGame.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Lab2GuessingGame\Lab2GuessingGame\obj\Debug\netcoreapp2.0\Lab2GuessingGame.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Lab2GuessingGame\Lab2GuessingGame\obj\Debug\netcoreapp2.0\Lab2GuessingGame.AssemblyInfoInputs.cache
+c:\users\user\source\repos\Lab2GuessingGame\Lab2GuessingGame\obj\Debug\netcoreapp2.0\Lab2GuessingGame.AssemblyInfo.cs
+c:\users\user\source\repos\Lab2GuessingGame\Lab2GuessingGame\obj\Debug\netcoreapp2.0\Lab2GuessingGame.dll
+c:\users\user\source\repos\Lab2GuessingGame\Lab2GuessingGame\obj\Debug\netcoreapp2.0\Lab2GuessingGame.pdb

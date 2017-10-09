@@ -1,0 +1,16 @@
+﻿@page
+@{ Layout = "_Layout";
+   ViewData["Title"] = "Guessing Game";
+}
+@model GuessingGameModel
+
+    <h1 align="center">Guessing Game</h1>
+    <form method="post" align="center">
+        <p>
+            <label for="text1" align="center">Pick a number between 1 and 100:</label>
+            <input type="text" name="UserGuess" />
+        </p>
+        <p><input type="submit" value="Submit Guess" /></p>
+    </form>
+    <p align="center">@Model.Result</p>
+
